@@ -1,7 +1,9 @@
-langchain==0.3.13
-langchain-ollama==0.2.0
+langchain
+langchain-ollama
 pypdf==5.1.0
 faiss-cpu
 sentence-transformers==3.3.1
 streamlit==1.41.1
 python-dotenv==1.0.1
+langchain_community
+ipykernel
