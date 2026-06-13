@@ -7,3 +7,4 @@ streamlit==1.41.1
 python-dotenv==1.0.1
 langchain_community
 ipykernel
+langchain-text-splitters
